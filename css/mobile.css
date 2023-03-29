@@ -9,21 +9,24 @@
 
 
 .container{
-  margin-left: 26%;
-    margin-top: 50px;
+  margin-left: 16%;
+    margin-top: 40px;
     display: block;
-    width: 60%;
     border-top-right-radius: 9px;
     border-top-left-radius: 9px;
     border-bottom-left-radius: 0;
-    width: 50%;
+    width: 70%;
+    padding-left: 60px;
+    height: 470px;
     
 }
 
 .container2{
-    margin-left: 26%;
+    margin-left: 16%;
     display: block;
-    width: 50%;
+    width: 70%;
+    padding-left: 60px;
+    height: 470px;
     
 }
 
@@ -31,9 +34,11 @@
     border-top-right-radius: 0px;
     border-top-left-radius: 0px;
     border-bottom-left-radius: 9px;
-    margin-left: 26%;
+    margin-left: 16%;
     display: block;
-    width: 50%;
+    width: 70%;
+    padding-left: 60px;
+    height: 470px;
 }
 
 .pee{
@@ -41,7 +46,7 @@
 }
 
 .btn, .btn2, .btn3{
-   margin-top: -5%;
+   margin-top: -0%;
    width: 65%;
    height: 36px;
 }
